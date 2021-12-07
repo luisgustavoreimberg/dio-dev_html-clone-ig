@@ -13,9 +13,9 @@ O projeto envolve o desenvolvimento rápido de um clone da *Landing Page* do Ins
 
 - Curso: HTML Web Developer 
 > ```
-> https://web.dio.me/track/html-web-developer
+> https://web.dio.me/track/html-web-developer?tab=path
 > ```
->![https://web.dio.me/track/html-web-developer](https://hermes.digitalinnovation.one/tracks/3a10fc52-7df0-4d38-9d9c-e98f1e5f6c9a.png)
+>![https://web.dio.me/track/html-web-developer?tab=path](https://hermes.digitalinnovation.one/tracks/3a10fc52-7df0-4d38-9d9c-e98f1e5f6c9a.png)
 
 **Desenvolvido por:**
 Luis Gustavo Gonçalves Reimberg
